@@ -6,3 +6,8 @@ Modelagem de dados referente a regra de negócio gerada por Gustavo sobre a SMN 
 
 **Modelagem**
 ![Modelagem](/smn.model.png)
+
+Adriel cometeu todos os erros da nossa modelagem
+Orcino não fez o que valentim mandou
+Olívio, como sempre, salvando o time e fazendo as alterações corretas.
+Onilaine*3
